@@ -1,0 +1,69 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- As It Is</label>
+		<defName>ME_Kenshi_As_It_Is</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- As It Is</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Ashen Air</label>
+		<defName>ME_Kenshi_Ashen_Air</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Ashen Air</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Bog</label>
+		<defName>ME_Kenshi_Bog</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Bog</clipPath>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Breath of the World</label>
+		<defName>ME_Kenshi_Breath_of_the_World</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Breath of the World</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Descend</label>
+		<defName>ME_Kenshi_Descend</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Descend</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Fertile</label>
+		<defName>ME_Kenshi_Fertile</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Fertile</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Pit</label>
+		<defName>ME_Kenshi_Pit</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Pit</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Sands at Dusk</label>
+		<defName>ME_Kenshi_Sands_at_Dusk</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Sands at Dusk</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Scorching Wind</label>
+		<defName>ME_Kenshi_Scorching_Wind</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Scorching Wind</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- The Wildgrass</label>
+		<defName>ME_Kenshi_The_Wildgrass</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- The Wildgrass</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Yearn for Night</label>
+		<defName>ME_Kenshi_Yearn_for_Night</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Yearn for Night</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Bonus Track</label>
+		<defName>ME_Kenshi_Bonus_Track</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Bonus Track</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Kenshi- Kenshi</label>
+		<defName>ME_Kenshi_Kenshi</defName>
+		<clipPath>MusicExpanded/Kenshi/Kenshi- Kenshi</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

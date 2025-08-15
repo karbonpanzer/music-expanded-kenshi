@@ -1,0 +1,24 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Kenshi</defName>
+        <label>Music Expanded: Kenshi</label>
+		<iconPath>UI/Icons/Kenshi</iconPath>
+        <description>Contains Tracks from the Cult-Classic Squad RPG and glorious CRPG meme fountain, Kenshi. This pack though is great for ambience it lack combat tracks so I would recommend using another pack in conjunction with this one so that you have a more well rounded music experience</description>
+		<tracks>			
+			<li>ME_Kenshi_As_It_Is</li>
+			<li>ME_Kenshi_Ashen_Air</li>	
+			<li>ME_Kenshi_Bog</li>	
+			<li>ME_Kenshi_Breath_of_the_World</li>	
+			<li>ME_Kenshi_Descend</li>	
+			<li>ME_Kenshi_Fertile</li>	
+			<li>ME_Kenshi_Pit</li>	
+			<li>ME_Kenshi_Sands_at_Dusk</li>	
+			<li>ME_Kenshi_Scorching_Wind</li>	
+			<li>ME_Kenshi_The_Wildgrass</li>	
+			<li>ME_Kenshi_Yearn_for_Night</li>	
+			<li>ME_Kenshi_Bonus_Track</li>	
+
+			<li>ME_Kenshi_Kenshi</li>				
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
