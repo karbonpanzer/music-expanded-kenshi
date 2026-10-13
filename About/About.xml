@@ -14,6 +14,7 @@ As it Is, Ashen Air, Bog, Breath of the World, Descend, Fertile, Kenshi, Pit, Sa
 		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
     <loadAfter>
         <li>musicexpanded.framework</li>
@@ -48,5 +49,12 @@ As it Is, Ashen Air, Bog, Breath of the World, Descend, Fertile, Kenshi, Pit, Sa
 				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
 			</li>
 		</v1.6>
+		<v1.7>
+			<li>
+				<packageId>zal.mef</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.7>	
 	</modDependenciesByVersion>
 </ModMetaData>
